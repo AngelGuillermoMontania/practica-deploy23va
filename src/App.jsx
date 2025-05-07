@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>PRACTICA DEPLOY</h1>
+        <h1>HICE UN CAMBIO</h1>
       </div>
       <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
     </>
